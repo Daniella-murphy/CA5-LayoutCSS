@@ -8,10 +8,11 @@
 }
 
 .row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 10px;
+   content:"";
+   clear: both;
+   display: block;
 }
+
 body {
     background-color: hsl(30, 72%, 70%, 0.7);
     margin: 15;
