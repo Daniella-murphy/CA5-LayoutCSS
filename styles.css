@@ -1,0 +1,38 @@
+body {
+    background-color: #c88038;
+}
+
+body {
+    background-color: rgb(200, 128, 56);
+}
+
+body {
+    background-color: hsl(30, 72%, 70%, 0.7);
+}
+
+h1{
+    font-family: "Brush Script MT", monospace;
+    font-size:40px;
+    text-align:center;
+    color:black;
+}
+
+h2{
+    font-family: "verdana", sans-serif;
+    font-size:10px;
+    text-align:left;
+}
+
+h3{
+    font-family: "Courier New", sans-serif;
+    font-size:20px;
+    text-align:center;
+    color:black;
+}
+
+p{
+   font-family:"verdana", sans-seif;
+   font-size:15px;
+   text-align:center;
+}
+
